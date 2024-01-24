@@ -1,13 +1,17 @@
-package com.package1;
+package com.Day4.Package1;
 
 import java.util.Objects;
 
 public class Person {
+	
+	
 	//Data Members
 	private String name;
 	private String city;
 	private int age;
+	
 	// getters and setters
+	
 	public String getName() {
 		return name;
 	}

@@ -1,4 +1,4 @@
-package Assesment;
+package com.week1Assesment;
 
 public class Customer {
 	private String name;

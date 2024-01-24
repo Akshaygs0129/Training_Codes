@@ -1,5 +1,5 @@
 
-package Assesment;
+package com.week1Assesment;
 import java.util.Scanner;
 
 public class SkyAirlines {

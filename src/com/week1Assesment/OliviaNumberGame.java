@@ -1,4 +1,4 @@
-package Assesment;
+package com.week1Assesment;
 import java.util.Scanner;
 
 public class OliviaNumberGame {
@@ -43,7 +43,7 @@ public class OliviaNumberGame {
             int smallestNumber = numberGame.findSmallest();
             System.out.println("The smallest number is: " + smallestNumber);}
 
-		// TODO Auto-generated method stub
+		
 
 	}
 
