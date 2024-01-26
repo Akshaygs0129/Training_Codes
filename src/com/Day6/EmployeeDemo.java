@@ -11,6 +11,7 @@ public class EmployeeDemo {
 		System.out.println(Employee.CompanyName);
 		Employee e=new Employee("Shubham",005);
 		System.out.println(e);
+		System.out.println(Employee.CompanyName);
 		
 		// Similarly, create the second object of the class and pass the two arguments.
 
