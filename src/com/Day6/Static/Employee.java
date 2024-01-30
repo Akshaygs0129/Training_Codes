@@ -1,4 +1,4 @@
-package com.Day6;
+package com.Day6.Static;
 
 public class Employee {
 	
@@ -11,7 +11,7 @@ public class Employee {
 	//SGI which is common for all the objects.
 	
 	static String CompanyName="SGI";
-
+	static float salary=1000.5f;
 
 	//Declare a two-parameter constructor with parameters named n and i.
 
