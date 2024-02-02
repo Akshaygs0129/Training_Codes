@@ -1,4 +1,4 @@
-package com.week1Assesment;
+package com.Assesment.Assesment1;
 
 public class Customer {
 	private String name;

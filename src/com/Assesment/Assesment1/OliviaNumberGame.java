@@ -1,4 +1,4 @@
-package com.week1Assesment;
+package com.Assesment.Assesment1;
 import java.util.Scanner;
 
 public class OliviaNumberGame {

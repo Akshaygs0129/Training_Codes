@@ -6,8 +6,6 @@ public abstract class shape {
 	void show() {
 		System.out.println("area is :"+area);
 	}
-	
-	
-	
+
 
 }
