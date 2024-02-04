@@ -1,4 +1,4 @@
-package com.Day11.MarkerInterface;
+package com.Day10.Interfaces.MarkerInterface;
 
 public class RegistrableDemo {
 
