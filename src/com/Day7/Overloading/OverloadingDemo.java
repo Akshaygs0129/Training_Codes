@@ -3,7 +3,7 @@ package com.Day7.Overloading;
 public class OverloadingDemo {
 
 	public static void main(String[] args) {
-		
+	
 		ConstructorOverloading c =new ConstructorOverloading(); //Default constructor invoked
 		System.out.println(c);
 		
@@ -12,7 +12,7 @@ public class OverloadingDemo {
 		
 		ConstructorOverloading c3=new ConstructorOverloading(10.0f,20.3f); // Two arguments
 		System.out.println(c3);
-		
+	
 		
 		System.out.println("------------------------Method Overloading-----------------------");
 		
